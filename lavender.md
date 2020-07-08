@@ -1,1 +1,1 @@
-Write ur changelogs here
+Fix FPS info need permissive mode
