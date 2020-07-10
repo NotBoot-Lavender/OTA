@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "filename": "AOSiP-10-Quiche-lavender-20200709.zip",
-      "version": "20200709",
+      "filename": "AOSiP-10-Quiche-lavender-20200710.zip",
+      "version": "20200710",
       "romtype": "Quiche",
-      "size": "856213689",
-      "datetime": 1594251302,
-      "id": "0dc4d16c5f50a423fd0d9ac6b4648a8ef8d7effabbe401c66f4d1ae221c8e8a0",
-      "url": "https://master.dl.sourceforge.net/project/nangis/aosip/lavender/test/AOSiP-10-Quiche-lavender-20200709.zip"
+      "size": "856150627",
+      "datetime": 1594332104,
+      "id": "637d7eb1c369bcd2ba382145d5d8f0581b82298f0bddf0f5be4091b6016ff12b",
+      "url": "https://versaweb.dl.sourceforge.net/project/nangis/aosip/lavender/test/AOSiP-10-Quiche-lavender-20200710.zip"
     }
   ]
 }
