@@ -1,17 +1,38 @@
-Update 10-7-2020 :
+Update 18-7-2020 :
 
 DEVICE :
 
-• Update latest source
 • Added Jelly
-• Fix FPS info need permissive mode
-• Add moar Denial
+• Xiaomi part : fix FPS info need permissive mode, nuke audio gain and backlight dimmer, and add owl pic on display calibration
+• clean up dt and add moar denial thanks to @Genkzsz11 for help
 • sdm660_64: perf hal support
 • IMS: Enable IMS feature flags for supported carriers
-• data-ipa-cfg-mgr: Merge tag 'LA.UM.8.2.r1-06900-sdm660.0' 
+• data-ipa-cfg-mgr: Merge tag 'LA.UM.8.2.r1-06900-sdm660.0'
 
+KERNEL :
+
+• upstream AOSiP kernel to 4.4.230
+• update wireguard to version 1.0.20200712
 
 ROM :
+
+16-7-2020
+Update GMS updater component disable list
+Update Ethereal theme colors
+CPU info overlay updates
+Translation updates
+Pulse navbar audio gfx visualizer added
+DeskClock: Remove notification sound from firing and snoozing channels
+OwlsNest: Hardware key enable switch
+Set Assistant UID of the current user
+SystemUI: Add tile for enable/disable HW keys
+Buttons: Hardware key disable support
+OwlsNest: ticker/headsup availability
+Status bar notification ticker
+Contacts: Make the launch screen follow the system theme
+AOSP Keyboard updates
+
+9-7-2020 
 
 Update translations
 Add HeadsUp timeout function
